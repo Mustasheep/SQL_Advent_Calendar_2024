@@ -14,7 +14,7 @@ Uma desafiadora competição de SQL se desenrola ao longo de dezembro, apresenta
 
 🚦 Níveis: As perguntas variam entre fácil, médio e difícil.
 
-🏆 Objetivo: Aprender, praticar e compartilhar conhecimento!
+🏆 Objetivo: Aprender, praticar, compartilhar conhecimento e concorrer a prêmios!
 
 ---------------
 Participe!! >> https://www.sqlcalendar.com/welcome
