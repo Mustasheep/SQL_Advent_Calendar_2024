@@ -4,8 +4,6 @@ Santa wants to know which gifts weigh more than 1 kg. Can you list them?
 
 **Table name: gifts**
 
-Aqui está a tabela que você pediu:
-
 | gift_name     | recipient | weight_kg |
 |---------------|------------|-----------|
 | Toy Train     | John       | 2.5       |
