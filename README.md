@@ -1,19 +1,19 @@
 # 🎄 SQL Advent Calendar Challenge - 2024 🎄
 
-A challenging SQL competition unfolds throughout December, presenting a new problem to solve each day from the 1st to Christmas Eve (the 24th). It's a great opportunity to put your studies into practice and have fun with the challenge.
+Uma desafiadora competição de SQL se desenrola ao longo de dezembro, apresentando um novo problema para resolver a cada dia. É uma ótima oportunidade para colocar em prática os estudos e se divertir com o desafio.
 
 ---------------------------
 
 
 ![Calendar](SQL_Advent_Calendar.jpeg)
 
-📅 Period: December 1st to 24th.
+📅 Período: 1º a 24 de dezembro.
 
-🎯 Daily Challenge: One new SQL question per day.
+🎯 Desafio Diário: Uma nova pergunta SQL por dia.
 
-🚦 Levels: Questions range from easy, medium and advanced.
+🚦 Níveis: As perguntas variam entre fácil, médio e difícil.
 
-🏆 Objective: Learn, practice and share knowledge!
+🏆 Objetivo: Aprender, praticar e compartilhar conhecimento!
 
 ---------------
-Participate!! >> https://www.sqlcalendar.com/welcome
+Participe!! >> https://www.sqlcalendar.com/welcome
