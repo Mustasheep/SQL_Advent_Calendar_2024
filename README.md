@@ -5,16 +5,9 @@ Uma desafiadora competição de SQL se desenrola ao longo de dezembro, apresenta
 - Este repositório tem como objetivo compartilhar os desafios e as soluções correspondentes que encontro a cada dia deste evento.
 ---------------------------
 
-
-![Calendar](SQL_Advent_Calendar.jpeg)
-
 📅 Período: 1º a 24 de dezembro.
 
-🎯 Desafio Diário: Uma nova pergunta SQL por dia.
-
-🚦 Níveis: As perguntas variam entre fácil, médio e difícil.
-
-🏆 Objetivo: Aprender, praticar, compartilhar conhecimento e concorrer a prêmios!
+![Calendar](SQL_Advent_Calendar.jpeg)
 
 ---------------
 Participe!! 
