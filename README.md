@@ -7,7 +7,7 @@ Uma desafiadora competição de SQL se desenrola ao longo de dezembro, apresenta
 
 📅 Período: 1º a 24 de dezembro.
 
-![Calendar](SQL_Advent_Calendar.jpeg)
+![Calendar](Advent_Calendar.gif)
 
 ---------------
 Participe!! 
