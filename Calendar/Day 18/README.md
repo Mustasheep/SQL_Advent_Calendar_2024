@@ -26,3 +26,5 @@ Table name: **activity_ratings**
 | 10 | 3 | 4.9 |
 | 11 | 3 | 4.8 |
 | 12 | 3 | 4.9 |
+
+Question level of difficulty: Hard 🎅🎅🎅
