@@ -1,6 +1,8 @@
+## Today's Question ⁉️
 
+A travel agency is promoting activities for a "Summer Christmas" party. They want to identify the top 2 activities based on the average rating. Write a query to rank the activities by average rating.
 
-**Tabela: activities**
+Table name: **activities**
 
 | activity_id | activity_name |
 |---|---|
@@ -8,7 +10,7 @@
 | 2 | Jet Skiing |
 | 3 | Sunset Yoga |
 
-**Tabela: ratings**
+Table name: **activity_ratings**
 
 | rating_id | activity_id | rating |
 |---|---|---|
